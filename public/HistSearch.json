@@ -1,0 +1,863 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "tJwgcsd5Ergup12Jw1TsqlhhRDY",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "SA",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "byVb8ZDPF01Q-8BsrAX8gD3WZLk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JWtOFF0iSbo"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-02T16:43:48Z",
+          "channelId": "UCl3tRSkISghtUQrGLzz-vBg",
+          "title": "A Brief History of Art Movements | Behind the Masterpiece",
+          "description": "Each video takes me about 2-3 months, so please consider supporting this channel through one of the ways below! Patreon ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JWtOFF0iSbo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JWtOFF0iSbo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JWtOFF0iSbo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Behind the Masterpiece",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-02T16:43:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "W3P-uqIelLc5OCTUME3i8LKj6lU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RowBusYuSn8"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-02T19:11:16Z",
+          "channelId": "UCns_q-Rz_toVUszWHnwkeBA",
+          "title": "What was Yoko going to do with the hair? #salvadordali #arthistory",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RowBusYuSn8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RowBusYuSn8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RowBusYuSn8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TheArtRevival",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-02T19:11:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8eYuKprSNSnOh14gJz-Pl9MY-rs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8IlEOz-OtVc"
+        },
+        "snippet": {
+          "publishedAt": "2024-09-30T22:04:31Z",
+          "channelId": "UCIl5POJSql5EWQcd5NZYnsA",
+          "title": "The world’s oldest color is…. NEON PINK?! 🫥 #art #history #arthistory #archaeology #paint #facts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8IlEOz-OtVc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8IlEOz-OtVc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8IlEOz-OtVc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A Brush with Bekah ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-09-30T22:04:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Cx1_DdM7kC3XXwG36c7f9wbpy6s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rT6QV0dWJG4"
+        },
+        "snippet": {
+          "publishedAt": "2024-05-09T16:00:47Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "What Makes an Artist “Great”? : Crash Course Art History #4",
+          "description": "Michelangelo. Vincent Van Gogh. Pablo Picasso. The story of art history is told through the biographies of individual celebrity ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rT6QV0dWJG4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rT6QV0dWJG4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rT6QV0dWJG4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-05-09T16:00:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IJrOXQccGLi2sVT03vkqUQ1nZ1I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tnSYLSK8tM0"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-19T20:49:17Z",
+          "channelId": "UCIl5POJSql5EWQcd5NZYnsA",
+          "title": "THE COLOR LOST TO HISTORY👁️#paint #painting #art #arthistory #interesting #artist #history #mystery",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tnSYLSK8tM0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tnSYLSK8tM0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tnSYLSK8tM0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A Brush with Bekah ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-19T20:49:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "p9t0Q0HVL0Rb73GUZtgoDuuQOFU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YHcX_nuyQPc"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-18T16:00:33Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "How to Look at Art: Crash Course Art History #2",
+          "description": "How long do you typically look at an artwork, and what can you learn in that time? In this episode of Crash Course Art History, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YHcX_nuyQPc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YHcX_nuyQPc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YHcX_nuyQPc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-18T16:00:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "09l333pqjlvF3svmpwnVpNQefjg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2jUNyRtSiPU"
+        },
+        "snippet": {
+          "publishedAt": "2024-09-25T22:10:28Z",
+          "channelId": "UCIl5POJSql5EWQcd5NZYnsA",
+          "title": "The incredible color invented ✨BY ACCIDENT✨ #art #arthistory #history #interesting #purple #facts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2jUNyRtSiPU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2jUNyRtSiPU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2jUNyRtSiPU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A Brush with Bekah ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-09-25T22:10:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_33xVyNy9Lbm8y7f3IY-r9FeMw0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hfKymoH9XTc"
+        },
+        "snippet": {
+          "publishedAt": "2024-05-02T16:00:37Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "The History of Museums: Crash Course Art History #3",
+          "description": "In this episode of Crash Course Art History, we'll learn why museums are so much more than just collections of interesting and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hfKymoH9XTc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hfKymoH9XTc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hfKymoH9XTc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-05-02T16:00:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kUiLHXKgTwkMo38jYinxg-TKBXk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5GF2MA6WGNo"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-01T14:25:40Z",
+          "channelId": "UCYdBSjM0TRKSIieIHXmofDg",
+          "title": "Willem de Kooning early life #artist #arthistory",
+          "description": "Dive into the fascinating world of Willem de Kooning, a trailblazer in Abstract Expressionism. Discover his journey from Rotterdam ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5GF2MA6WGNo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5GF2MA6WGNo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5GF2MA6WGNo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Frank Baker",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-01T14:25:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DNDp5D4alXhX7icxG9iai28CEtA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "j9Yd12IXpDo"
+        },
+        "snippet": {
+          "publishedAt": "2024-09-28T15:12:00Z",
+          "channelId": "UCGn7dlcAmH44GqycKa_3ssA",
+          "title": "Frida Kahlo had a wardrobe as iconic as her art 👗#ArtHistory #GoogleArtsandCulture",
+          "description": "Subscribe: http://bit.ly/2Vo55DL Discover the inspirational moments, iconic people, and artistic wonders that are available at the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j9Yd12IXpDo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j9Yd12IXpDo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j9Yd12IXpDo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Google Arts & Culture",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-09-28T15:12:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iaeyzAD7xGBLhUimC0jFf4TKCcM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HCWzzZFCwag"
+        },
+        "snippet": {
+          "publishedAt": "2024-06-13T16:00:12Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "How Do Religions Use Art?: Crash Course Art History #8",
+          "description": "From the Egyptian Book of the Dead to Tibetan Buddhist sand mandalas, humans have always reached for art to express religious ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HCWzzZFCwag/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HCWzzZFCwag/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HCWzzZFCwag/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-06-13T16:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pVMiQif5j-ztb9Z6VoY3FOSJvjo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PFEFBY-cQhE"
+        },
+        "snippet": {
+          "publishedAt": "2024-05-30T16:00:17Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "What Is Good Art? : Crash Course Art History #6",
+          "description": "What makes some art valuable enough to hang in museums? In this episode of Crash Course Art History, we'll look at different ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PFEFBY-cQhE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PFEFBY-cQhE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PFEFBY-cQhE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-05-30T16:00:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7fYU3NhJ8fA432_3U9y_S6sjKt0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PiNw0uJVOwI"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-11T22:29:37Z",
+          "channelId": "UCIl5POJSql5EWQcd5NZYnsA",
+          "title": "The world’s most HEAVENLY color 👁️🌌 #art #history #arthistory #oilpainting #painting #paint",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PiNw0uJVOwI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PiNw0uJVOwI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PiNw0uJVOwI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A Brush with Bekah ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-11T22:29:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rptJG2olIYx7GJWeuZAxUMiuw2M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t7SJpMZQS8Q"
+        },
+        "snippet": {
+          "publishedAt": "2024-06-17T22:36:45Z",
+          "channelId": "UCIl5POJSql5EWQcd5NZYnsA",
+          "title": "THE DEADLIEST GREEN IN HISTORY. ⚠️🍏#arthistory #art #history #oilpainting #poison #painting #green",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t7SJpMZQS8Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t7SJpMZQS8Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t7SJpMZQS8Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A Brush with Bekah ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-06-17T22:36:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Eu3CAM2xnMz72CDYzudq7_f21zA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oESBVt5uCi0"
+        },
+        "snippet": {
+          "publishedAt": "2024-05-16T21:29:29Z",
+          "channelId": "UCIl5POJSql5EWQcd5NZYnsA",
+          "title": "100 year old MYSTERY paint…👁️🔵 #art #arthistory #painting #history #artist #paint #interesting",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oESBVt5uCi0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oESBVt5uCi0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oESBVt5uCi0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A Brush with Bekah ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-05-16T21:29:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Jmc4RaSpJ3Dgh8OFML44QCyGF-Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sM2MOyonDsY"
+        },
+        "snippet": {
+          "publishedAt": "2017-09-18T15:18:01Z",
+          "channelId": "UC3R-xanNgtoa8b7gpVexVlA",
+          "title": "How to do visual (formal) analysis in art history",
+          "description": "Giovanni Bellini, Madonna of the Meadow, c. 1500, oil and egg on synthetic panel, transferred from wood, 67.3 x 86.4 cm (The ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sM2MOyonDsY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sM2MOyonDsY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sM2MOyonDsY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Smarthistory",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-09-18T15:18:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_7HUKqs6tI7BEPIxAtLt4sbx4VM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qw3rakBadmo"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-02T16:01:01Z",
+          "channelId": "UCFicBM8Tx2PBr07ImCbrPFg",
+          "title": "Gassed by John Singer Sargent  #history #art #historicalart #arthistory",
+          "description": "Gassed is a large oil painting created by John Singer Sargent in 1919, depicting the grim aftermath of a mustard gas attack during ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qw3rakBadmo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qw3rakBadmo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qw3rakBadmo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Lyra's Letters",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-02T16:01:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "irMw-BaADi_GG_1xkGndYxwb3LI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fQFcGhbqRq8"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-06T02:14:31Z",
+          "channelId": "UCSWdtggn4s1uG92diBbtZng",
+          "title": "The Fanart That Caused A Furry War | Bad Art History",
+          "description": "The fanart so divisive that it caused a political furry civil war. This is the incredible saga of the fatfur drawing that tore a Facebook ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fQFcGhbqRq8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fQFcGhbqRq8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fQFcGhbqRq8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "skumbagovich",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-06T02:14:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vgROomx_OBw3hkIryBKpaL068xk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5mNfb-Ym-Dc"
+        },
+        "snippet": {
+          "publishedAt": "2024-09-23T19:44:27Z",
+          "channelId": "UCIl5POJSql5EWQcd5NZYnsA",
+          "title": "This rare paint takes “Beetlejuice” LITERALLY.👁️🪲 #art #painting #arthistory #interesting #history",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5mNfb-Ym-Dc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5mNfb-Ym-Dc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5mNfb-Ym-Dc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A Brush with Bekah ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-09-23T19:44:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Jc0uXHMEgrCvWpZplj6U0xrAtiM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E_h-sxkPQzY"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-23T02:29:41Z",
+          "channelId": "UCZNStI0lZrdJtQed7h8Ha5Q",
+          "title": "(S1 E1) Dawn of the High Renaissance, 1475-1520 | A Narrative Art History of the Renaissance",
+          "description": "Featured in this video: Leonardo, Michelangelo, Raphael, and their contemporaries 0:00 Recap and intro 2:51 Leonardo da Vinci, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E_h-sxkPQzY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E_h-sxkPQzY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E_h-sxkPQzY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Narrative Art History",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-23T02:29:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gsDPoFY1g0tGncWsBERYMxlieiM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "T6RJUzuVq4w"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-04T16:00:21Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "Crash Course Art History Preview",
+          "description": "Welcome to Crash Course Art History! Over the next 22 episodes, Sarah Urist Green will explore the hidden stories behind ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T6RJUzuVq4w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T6RJUzuVq4w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T6RJUzuVq4w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-04T16:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zSk22G_N4H093xALDX6qLv_L7K8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "R6IAQ61nUQk"
+        },
+        "snippet": {
+          "publishedAt": "2024-09-30T21:47:20Z",
+          "channelId": "UCm1Bg9sukZSa2JA8rP4du4g",
+          "title": "ART HISTORY FUN FACT: IMPRESSIONISM part ii #arthistory #arthistory101 #art #painting #arte #artists",
+          "description": "Subscribe for more art history content like this!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R6IAQ61nUQk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R6IAQ61nUQk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R6IAQ61nUQk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DotART",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-09-30T21:47:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ATOgdOLT2FTVsRLwsWJIIa052I0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6PYKx-z9KDI"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-23T20:54:34Z",
+          "channelId": "UCIl5POJSql5EWQcd5NZYnsA",
+          "title": "100 year old RARE paints🕵🏻\u200d♀️👴🏼 #art #arthistory #painting #history #interesting #facts #paint",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6PYKx-z9KDI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6PYKx-z9KDI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6PYKx-z9KDI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A Brush with Bekah ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-23T20:54:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7OVJSFWNjWVLYI0QRurWru0qeD0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-AKudjxdbQw"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-11T16:00:00Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "Bodies in Art: Crash Course Art History #11",
+          "description": "In this episode of Crash Course Art History, we'll hold a mirror to our bodies…in art, anyway. We'll learn what portraits and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-AKudjxdbQw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-AKudjxdbQw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-AKudjxdbQw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-11T16:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JlvOGokAA1b773L7IWEiIiaQRJY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4OU1TTar8g4"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-01T14:30:50Z",
+          "channelId": "UCANp2YejdjMHJ4rIuce93oA",
+          "title": "Which type of history are you into? #history #art #painting",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4OU1TTar8g4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4OU1TTar8g4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4OU1TTar8g4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "History by Mae",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-01T14:30:50Z"
+        }
+      }
+    ]
+  }
+  
