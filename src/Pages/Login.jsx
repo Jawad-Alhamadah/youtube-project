@@ -3,6 +3,7 @@ import React from 'react'
 import { Flip, ToastContainer,toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css';
 import { useNavigate,Link } from 'react-router-dom';
+import "../index.css"
 function Login() {
     let [username,setUsername]= React.useState("")
     let [password,setPassword]= React.useState("")
@@ -25,10 +26,11 @@ function Login() {
 
     async function handleLogin(){
        
+        if(username.length<=0 || password.length<=0){
+            return toast.warning("Please fill both fields")
+        }
         try{
 
-            // let data =await axios.get(`https://66fd81486993693089556ab8.mockapi.io/login?username=${username}&password=${password}`)
-            
             let data = await axios.get("https://66fd81486993693089556ab8.mockapi.io/login", {
                 params: {
                   username:username,
@@ -55,8 +57,6 @@ function Login() {
         }
        }
 
-
-
     }
 
     function handleBodyClick(){
@@ -65,7 +65,7 @@ function Login() {
     }
 
     return (
-        <div onClick={handleBodyClick} className='flex justify-center items-center  w-screen h-screen  '>
+        <div onClick={handleBodyClick} className=' flex justify-center items-center  w-screen h-screen  '>
         <ToastContainer
             position="top-right"
             autoClose={5000}
@@ -105,12 +105,10 @@ function Login() {
                         <div className='mt-3 '>
                             
                             <Link to="/signup" className='mt-3 text-googleBlue text-sm font-medium'>Not a member? Signup</Link>
-                            <h2 className='mt-3 w-[100%]  text-sm font-extralight'>
-                                Not your computer? Use Guest mode to sign in privately.
-                            </h2>
-                            <h2 className=' text-googleBlue'> Learn more about using Guest mode</h2>
+                          
+                           
                             <div className=' mt-3 justify-between ms-auto flex max-md:w-[100%] w-[100%]'>
-                                <button className='text-googleBlue font-medium'><Link to="/signup">Create An Account</Link></button>
+                            <button className='text-googleBlue font-medium'><Link to="/videos">Continue As a guest</Link></button>
                                 <button onClick={handleLogin} className=' font-medium text-sm rounded-full bg-googleBlue px-5 py-2 text-white  ' >Login</button>
                             </div>
 

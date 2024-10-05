@@ -1,4 +1,5 @@
 import React from 'react'
+import { shorten,count } from '../helperFunctions/HelperFunctions'
 
 function DescSection(props) {
 
@@ -46,21 +47,21 @@ function DescSection(props) {
             
     }
     
-    function count(views) {
+    // function count(views) {
 
          
-        if (views < 1000) return views
-        if (views < 1000000) return ( Math.round(views/1000)/10)*10 + "k "
+    //     if (views < 1000) return views
+    //     if (views < 1000000) return ( Math.round(views/1000)/10)*10 + "k "
 
         
-        if (views >= 1000000) return  (Math.round(views/1000000)/10)*10 + "m "
+    //     if (views >= 1000000) return  (Math.round(views/1000000)/10)*10 + "m "
 
-    }
+    // }
 
 
   return (
-    <div className='bg-[#272727] p-4 rounded-lg  '>
- <div className='hover:cursor-pointer' onClick={handleDescClick}>
+    <div className='bg-[#272727] rounded-lg'>
+ <div className='hover:cursor-pointer mt-6 p-3 rounded-lg space-y-2' onClick={handleDescClick}>
      
      <div className='flex space-x-5'>
           <h1>{count(props.views)} views</h1>
@@ -78,8 +79,8 @@ function DescSection(props) {
     
   </div>
 
-          <h2 className={`hover:cursor-pointer ${expanded? "block": "hidden"} ` } onClick={handleCompress}>
-            showLess
+          <h2 className={`hover:cursor-pointer ${expanded? "block": "hidden"} p-3` } onClick={handleCompress}>
+            show less
         </h2>
     </div>
    
