@@ -4,7 +4,11 @@ function SideBar(props) {
     
     
     return (
-        <div className={`z-10 -left-[${props.hidden}] duration-500 space-y-6 p-5 bg-[#0f0f0f] w-[18em] fixed max-md:top-36 top-24 overflow-scroll max-h-[90vh] scroll-container  `}>
+        <div 
+        
+        className={`z-[11] duration-500 space-y-6 p-5 bg-[#0f0f0f] w-[18em] fixed max-md:top-36 top-20 overflow-scroll max-h-[90vh] scroll-container  `}
+        style={{left:props.hidden }}
+        >
             <div className='pace-y-2 grayhover'>
                 <div>Home</div>
                 <div>Shorts</div>

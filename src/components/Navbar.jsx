@@ -12,7 +12,7 @@ import SideBar from './SideBar';
 function Navbar() {
     let navigate = useNavigate()
     let [searchValue, setSearchValue] = React.useState("")
-    let [toggleStyle,setToggleStyle] = React.useState("350px")
+    let [toggleStyle,setToggleStyle] = React.useState("-350px")
     function handleSearchChange(event) {
         setSearchValue(event.target.value)
     }
@@ -23,7 +23,7 @@ function Navbar() {
     }
 
     function toggle(){
-        if(toggleStyle==="0px") { setToggleStyle("350px")}
+        if(toggleStyle==="0px") { setToggleStyle("-350px")}
         else{
             setToggleStyle("0px")
 
@@ -36,7 +36,9 @@ function Navbar() {
             <SideBar hidden={toggleStyle}></SideBar>
         <div className='flex flex-wrap  max-md:justify-center justify-between px-5 py-3 sticky top-0 bg-[#0f0f0f] z-10'>
              
-             <div className={`${toggleStyle==="0px"? "hidden":""} w-[100%] h-[100%] bg[#0000007da] -z-10 absolute top-0 left-0`}></div>
+             <div 
+             style={toggleStyle==="-350px"? {display:"none"}:{ display:"block", zIndex:-1, position:"fixed",top:0,left:0, backgroundColor:"#000000a9"}}
+             className={` w-[100%] h-[100%] bg[#0000007da]  absolute top-0 left-0`}></div>
             <div className='space-x-5 flex items-center'>
                 <div className='cursor-pointer' onClick={toggle}><HiBars3 className='text-2xl' /></div>
                 <div className=''>
